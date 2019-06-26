@@ -1,4 +1,4 @@
-#  Data Warehouse Using Amazon Redshisft cluster
+#  Data Warehouse Using Amazon Redshift cluster
 
 ### 1. Overview and purpose of the Project:
 
